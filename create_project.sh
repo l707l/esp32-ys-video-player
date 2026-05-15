@@ -1,0 +1,1 @@
+idf.py create-project esp32-ys-video-player /tmp/esp32-ys-video-player
